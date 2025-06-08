@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aadrika</h1>
+<h1 align="center">Hi there, I'm Aadrika</h1>
 <h3 align="center">A curious CSE student passionate about data science and fascinated by how technology works</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR1bDd5d2I1ZmYycWEyNmw2eGFybjJrdW9paDZxZzJ6cm1uMTdjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
